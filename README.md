@@ -1,4 +1,4 @@
-# Next.js file uploader Example with authentication
+# Next.js file uploader example with authentication
 
 This project uses:-
 
